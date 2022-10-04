@@ -7,11 +7,11 @@
 	>
 <channel>
 	<title>
-	Các phản hồi luận về: DEMO	</title>
+	Các phản hồi luận về: BLOG	</title>
 	<atom:link href="http://localhost/myproject/wordpress/demo/feed/" rel="self" type="application/rss+xml" />
 	<link>https://nguyenquochau.github.io/mywordpres/demo/</link>
 	<description></description>
-	<lastBuildDate>Tue, 30 Aug 2022 01:04:09 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 27 Sep 2022 01:12:16 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
