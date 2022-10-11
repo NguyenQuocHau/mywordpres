@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/product-tag/new/feed/" rel="self" type="application/rss+xml" />
 	<link>https://nguyenquochau.github.io/mywordpres</link>
 	<description></description>
-	<lastBuildDate>Tue, 04 Oct 2022 03:30:50 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 11 Oct 2022 01:23:09 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -77,7 +77,9 @@
 </table>
 <div class="yith-wfbt-submit-block">
 <div class="price_text"><span class="total_price_label">Price for all: </span>  <span class="total_price" data-total="16.4"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">$</span>16.40</bdi></span></span></div>
-<button class="yith-wfbt-submit-button button" type="submit"> Add all to Cart</button></div>
+<button class="yith-wfbt-submit-button button" type="submit"> Add all to Cart</button>
+
+</div>
 <ul class="yith-wfbt-items">
  	<li class="yith-wfbt-item"><label for="offeringID_0"><span class="product-name">This Product: Organic Tomato </span><span class="product-attributes">– Black, 0.5, Red Apple</span> – <span class="price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">$</span>4.00</bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">$</span>3.00</bdi></span></ins></span></label></li>
  	<li class="yith-wfbt-item"><label for="offeringID_1"><span class="product-name">Green Bell Pepper </span>– <span class="price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">$</span>14.40</bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">$</span>12.40</bdi></span></ins></span></label></li>
